@@ -1,10 +1,10 @@
 ## Olá, sou o Guilherme Yamada, estudante de Engenharia de Informação na Universidade Federal do ABC!
 
 <div>
-<a href="https://github.com/yamadaguilherme/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=yamadaguilherme&hide=contribs,prs&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/yamadaguilherme/convoychat">
+<a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamadaguilherme&theme=tokyonight" />
 </a>
 
