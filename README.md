@@ -2,10 +2,10 @@
 
 <div>
 <a href="https://github.com/yamadaguilherme/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yamadaguilherme&hide=contribs,prs&show_icons=true&theme=tokyonight" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=yamadaguilherme&hide=contribs,prs&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/yamadaguilherme/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamadaguilherme&theme=tokyonight" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamadaguilherme&theme=tokyonight" />
 </a>
 
 <div>
